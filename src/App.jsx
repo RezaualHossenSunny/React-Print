@@ -1,5 +1,4 @@
-
-
+import ReactToPrint from 'react-to-print';
 
 function App() {
 
@@ -13,6 +12,7 @@ function App() {
     </div>
 
 </div>
+<ReactToPrint trigger={()=> <button className='btn'>print</button>}/>
     </div>
     </>
   )
