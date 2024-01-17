@@ -12,6 +12,7 @@ body{
     height: 600px;
     margin: auto;
     overflow-y: scroll;
+    display: none;
 }
 .img{
     height: 300px;
@@ -24,7 +25,7 @@ body{
     border-color: aliceblue;
     font-size: large;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    height: 30px;
+    height: 50px;
     color: cornsilk;
     
 
